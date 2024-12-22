@@ -1,6 +1,6 @@
 ## 💬 Chat with GitHub Repo
 
-LLM app with RAG to chat with GitHub Repo in just 30 lines of Python Code. The app uses Retrieval Augmented Generation (RAG) to provide accurate answers to questions based on the content of the specified GitHub repository.
+LLM app with RAG to chat with GitHub Repo. The app uses Retrieval Augmented Generation (RAG) to provide accurate answers to questions based on the content of the specified GitHub repository.
 
 ### Features
 
