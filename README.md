@@ -18,11 +18,6 @@ LLM app with RAG to chat with GitHub Repo in just 30 lines of Python Code. The a
 
 - Create a [personal access token](https://docs.github.com/en/enterprise-server@3.6/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens#creating-a-personal-access-token) with the necessary permissions to access the desired GitHub repository.
 
-3. Run the Streamlit App
-```bash
-streamlit run chat_github.py
-```
-
 ### How it Works?
 
 - The app prompts the user to enter their OpenAI API key, which is used to authenticate requests to the OpenAI API.
