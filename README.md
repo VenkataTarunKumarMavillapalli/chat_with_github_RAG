@@ -10,25 +10,15 @@ LLM app with RAG to chat with GitHub Repo in just 30 lines of Python Code. The a
 
 ### How to get Started?
 
-1. Clone the GitHub repository
-
-```bash
-git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
-```
-2. Install the required dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-3. Get your OpenAI API Key
+1. Get your OpenAI API Key
 
 - Sign up for an [OpenAI account](https://platform.openai.com/) (or the LLM provider of your choice) and obtain your API key.
 
-4. Get your GitHub Access Token
+2. Get your GitHub Access Token
 
 - Create a [personal access token](https://docs.github.com/en/enterprise-server@3.6/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens#creating-a-personal-access-token) with the necessary permissions to access the desired GitHub repository.
 
-4. Run the Streamlit App
+3. Run the Streamlit App
 ```bash
 streamlit run chat_github.py
 ```
